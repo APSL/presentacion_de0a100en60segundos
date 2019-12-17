@@ -1,0 +1,35 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: yellow;
+  font-size: 180px;
+  text-align: center;
+  font-family: 'Comic Sans', 'Comic Sans MS', sans-serif;
+}
+
+h5 {
+  color: green;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Comic Sans', 'Comic Sans MS', sans-serif;
+}
+
+.imagenes {
+  text-align: center;
+}
+
+.cbrava {
+  display: inline-block;
+  width: 657px;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.it-ed {
+  display: inline-block;
+  width: 800px;
+  margin-left: 10px;
+  margin-right: auto;
+}
